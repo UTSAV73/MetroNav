@@ -22,3 +22,4 @@ The C++ app runs on the command line on any platform.
 - Cheapest travel rates for students and visitors.
   
 
+![image](https://github.com/user-attachments/assets/a90e8d0b-d9bd-4981-9fea-171559aeeb2c)
